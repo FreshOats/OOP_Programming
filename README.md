@@ -1,6 +1,7 @@
 # Object Oriented Programming in R
+
 ***Longitudinal Data Analysis with Object Oriented Programming***
-by Justin R. Papreck
+#### by Justin R. Papreck
 ---
 
 ## Exploratory Data Analysis
